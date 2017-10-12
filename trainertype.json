@@ -1,0 +1,24 @@
+{
+  "trainers": {
+    "hiker": {
+      "name": "hiker",
+      "pokemon": [
+        {
+          "name": "geodude",
+          "range": "1-25",
+          "chance": 3
+        },
+        {
+          "name": "onix",
+          "range": "1-100",
+          "chance": 3
+        },
+        {
+          "name": "diglett",
+          "range": "1-26",
+          "chance": 2
+        }
+      ]
+    }
+  }
+}
